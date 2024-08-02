@@ -1,0 +1,30 @@
+
+body {
+    text-align: center;
+    background: url(./th.jpg) no-repeat;
+    background-size: cover ;
+    height: 100vh;
+    
+
+    background-position: center;
+    color: rgb(224, 202, 160);
+    
+    font-family: sans-serif;
+    color: wheat;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    font-size: xx-large;
+    
+}
+p {
+    font-size: 30px;
+}
+input {
+    border: 0;
+    padding: 10px;
+    font-size: 18px;
+}
+input[type="submit"] { 
+    background: grey;
+    color: white;
+}

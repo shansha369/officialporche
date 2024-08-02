@@ -1,0 +1,46 @@
+header {
+    text-align: center;
+    background: url(./361360.webp) no-repeat;
+    background-size: cover;
+    height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(0, 12, 2, 0.836);
+  }
+  a {
+
+    color: wheat;
+  }
+  h1 {
+    font-size: 70px;
+  }
+  img {
+    margin: 40px 0px 0px 0px;
+    border: 3px solid white;
+      border-radius: 20px;
+    
+    
+    text-align: center;
+  }
+  ul {
+    padding: 10px;
+    background: (182, 186, 248, 0.5);
+  }
+  li {
+    display: inline;
+    padding: 0px 10px 0px 10px;
+  }
+  article {
+    max-width: 500px;
+    padding: 20px;
+    margin: 0 auto;
+  }
+  @media (max-width: 500px) {
+    h1 {
+      font-size: 38px;
+      padding: 5px;
+    }
+    li {
+      padding: 5px;
+      display: block;
+    }
+  }
